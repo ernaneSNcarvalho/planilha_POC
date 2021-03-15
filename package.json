@@ -1,7 +1,6 @@
 {
   "name": "planilha-POC",
   "version": "1.0.0",
-  "description": "",
   "main": "01-connect.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "google-spreadsheet": "^3.1.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernaneSNcarvalho/planilha_POC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ernaneSNcarvalho/planilha_POC/issues"
+  },
+  "homepage": "https://github.com/ernaneSNcarvalho/planilha_POC#readme",
+  "description": ""
 }
